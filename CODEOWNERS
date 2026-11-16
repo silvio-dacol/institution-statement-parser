@@ -1,0 +1,7 @@
+# Order matters: the LAST matching pattern wins.
+# Default owner — reviews anything no parser claims (shared utils, docs, CI).
+*                                   @silvio-dacol
+
+# Per-parser owners — add one line as each parser gets a maintainer
+/parsers/revolut/                   @silvio-dacol
+/parsers/ibkr/                      @silvio-dacol
