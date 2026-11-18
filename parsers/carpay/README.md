@@ -1,6 +1,6 @@
 # How to make a statement
 
-Updated by: Silvio Da Col
+Updated by: @silvio-dacol
 Last update: February 2026
 
 1. Access the Carpay website at https://www.carpay.se/ and log in to your account.

@@ -5,3 +5,9 @@
 # Per-parser owners — add one line as each parser gets a maintainer
 /parsers/revolut/                   @silvio-dacol
 /parsers/ibkr/                      @silvio-dacol
+/parsers/alipay/                    @silvio-dacol
+/parsers/carpay/                    @silvio-dacol
+/parsers/ccb/                       @silvio-dacol
+/parsers/intesa/                    @silvio-dacol
+/parsers/seb/                       @silvio-dacol
+/parsers/wechat/                    @silvio-dacol
