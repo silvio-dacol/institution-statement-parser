@@ -1,6 +1,6 @@
 """The verified English Revolut bank-statement CSV variant."""
 
-from matapan.importers.revolut.revolut import (
+from .revolut import (
     HEADERS,
     MAX_FILE_BYTES,
     PARSER_ID,
